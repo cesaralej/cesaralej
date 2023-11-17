@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hello, I'm Cesar!</h1>
 
-
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-CesarGarciaO-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesargarciao/)
-   [![Email](https://img.shields.io/badge/Email-cesar.ago2%40gmail.com-red?style=flat&logo=gmail)](mailto:cesar.ago2@gmail.com)
-   <a href="https://www.ocarinasoftware.com" target="_blank">Portfolio</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CesarGarciaO-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesargarciao/)
+[![Email](https://img.shields.io/badge/Email-cesar.ago2%40gmail.com-red?style=flat&logo=gmail)](mailto:cesar.ago2@gmail.com)
+<a href="https://www.ocarinasoftware.com" target="_blank">Portfolio</a>
 
 
 ### 🚀 About Me
