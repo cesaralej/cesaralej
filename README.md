@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello, I'm Cesar!</h1>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/cesargarciao/">LinkedIn</a> - 
-   <a href="cesar.ago2@gmail.com">Email</a> - 
-   <a href="www.ocarinasoftware.com">Portfolio</a>
+   <a href="https://www.linkedin.com/in/cesargarciao/" target="_blank">LinkedIn</a> - 
+   <a href="mailto:cesar.ago2@gmail.com" target="_blank">Email</a> - 
+   <a href="https://www.ocarinasoftware.com" target="_blank">Portfolio</a>
 </p>
 
 ### 🚀 About Me
