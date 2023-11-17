@@ -12,9 +12,9 @@ I am a passionate [Your Profession/Title] with a strong background in [Your Fiel
 
 ### 🔧 Technologies & Tools
 - **Programming Languages:**
-  - <div style="display: inline-block; background-color: #3572A5; color: #fff; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align: middle; margin-right: 5px;">Python</div>
-  - <div style="display: inline-block; background-color: #F1E05A; color: #333; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle; margin-right: 5px;">JavaScript</div>
-  - <div style="display: inline-block; background-color: #E38D13; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="https://img.shields.io/badge/SQL-004880?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="vertical-align: middle; margin-right: 5px;">SQL</div>
+  - <div style="display: inline-block; background-color: #3572A5; color: #fff; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align: middle; margin-right: 5px;"></div>
+  - <div style="display: inline-block; background-color: #F1E05A; color: #333; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle; margin-right: 5px;"></div>
+  - <div style="display: inline-block; background-color: #E38D13; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="https://img.shields.io/badge/SQL-004880?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="vertical-align: middle; margin-right: 5px;"></div>
 
 - **Frameworks & Libraries:** [List of frameworks and libraries you have experience with]
 - **Databases:** [List of databases you're familiar with]
