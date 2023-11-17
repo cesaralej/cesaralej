@@ -1,31 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - GitHub Profile</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <header>
+<header>
         <h1 align="center">👋 Hello, I'm Cesar!</h1>
         <p>Passionate [Your Profession/Title] | [Current Location]</p>
-    </header>
+</header>
 
-    <p align="center">
+<p align="center">
 
 <a href="">LinkedIn</a> -
 <a href="">Email</a> -
 <a href="">Portfolio</a>
+
 </p>
 
-    <section id="about-me">
+<section id="about-me">
         <h2>About Me</h2>
         <p>I am a passionate [Your Profession/Title] with a strong background in [Your Field/Area of Expertise]. My goal is to [Briefly describe your career goal or mission].</p>
     </section>
 
-    <section id="technologies">
+<section id="technologies">
         <h2>Technologies & Tools</h2>
         <ul>
             <li><strong>Programming Languages:</strong> [List of languages you're proficient in]</li>
@@ -35,11 +26,8 @@
         </ul>
     </section>
 
-    <!-- Add other sections such as "Currently Learning," "Projects," "GitHub Stats," "Contact Me," "Professional Experience," and "Find Me Online" using similar structures -->
+<!-- Add other sections such as "Currently Learning," "Projects," "GitHub Stats," "Contact Me," "Professional Experience," and "Find Me Online" using similar structures -->
 
-    <footer>
+<footer>
         <p>&copy; 2023 Your Name. All rights reserved.</p>
     </footer>
-
-</body>
-</html>
