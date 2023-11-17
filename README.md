@@ -1,6 +1,11 @@
-<h1 align="center">Cesar Garcia</h1>
+<h1 align="center">👋 Hello, I'm Cesar!</h1>
 
-## 👋 Hello, I'm Cesar!
+
+<p align="center">
+   <a href="">LinkedIn</a>
+   <a href="">Email</a>
+   <a href="">Portfolio</a>
+</p>
 
 ### 🚀 About Me
 
@@ -35,12 +40,6 @@ Here are some of the projects I am proud of:
 ### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
-
-### 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- Email: [Your Email Address]
-- Portfolio: [Your Portfolio Website]
 
 ### 💼 Professional Experience
 
