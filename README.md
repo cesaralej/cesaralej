@@ -12,9 +12,9 @@ I am a passionate [Your Profession/Title] with a strong background in [Your Fiel
 
 ### 🔧 Technologies & Tools
 - **Programming Languages:**
-  - <span style="color: #3572A5; font-weight: bold;">Python</span>
-  - <span style="color: #F1E05A; font-weight: bold;">JavaScript</span>
-  - <span style="color: #E38D13; font-weight: bold;">SQL</span>
+  - <div style="display: inline-block; background-color: #3572A5; color: #fff; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="python-icon.png" alt="Python" style="vertical-align: middle; margin-right: 5px;">Python</div>
+  - <div style="display: inline-block; background-color: #F1E05A; color: #333; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="javascript-icon.png" alt="JavaScript" style="vertical-align: middle; margin-right: 5px;">JavaScript</div>
+  - <div style="display: inline-block; background-color: #E38D13; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="sql-icon.png" alt="SQL" style="vertical-align: middle; margin-right: 5px;">SQL</div>
 
 - **Frameworks & Libraries:** [List of frameworks and libraries you have experience with]
 - **Databases:** [List of databases you're familiar with]
