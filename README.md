@@ -1,4 +1,4 @@
-# Cesar Garcia
+<h1 align="center">Cesar Garcia</h1>
 
 ## 👋 Hello, I'm Cesar!
 
