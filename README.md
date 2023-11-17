@@ -2,9 +2,9 @@
 
 
 <p align="center">
-   <a href="">LinkedIn</a>
-   <a href="">Email</a>
-   <a href="">Portfolio</a>
+   <a href="">LinkedIn</a> - 
+   <a href="">Email</a> - 
+   <a href="">Portfolio</a> - 
 </p>
 
 ### 🚀 About Me
