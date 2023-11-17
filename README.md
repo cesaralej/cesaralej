@@ -11,8 +11,11 @@
 I am a passionate [Your Profession/Title] with a strong background in [Your Field/Area of Expertise]. My goal is to [Briefly describe your career goal or mission].
 
 ### 🔧 Technologies & Tools
+- **Programming Languages:**
+  - <span style="color: #3572A5; font-weight: bold;">Python</span>
+  - <span style="color: #F1E05A; font-weight: bold;">JavaScript</span>
+  - <span style="color: #E38D13; font-weight: bold;">SQL</span>
 
-- **Programming Languages:** [List of languages you're proficient in]
 - **Frameworks & Libraries:** [List of frameworks and libraries you have experience with]
 - **Databases:** [List of databases you're familiar with]
 - **Tools & Technologies:** [Any relevant tools or technologies]
