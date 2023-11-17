@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CesarGarciaO-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesargarciao/)
 [![Email](https://img.shields.io/badge/Email-cesar.ago2%40gmail.com-red?style=flat&logo=gmail)](mailto:cesar.ago2@gmail.com)
-<a href="https://www.ocarinasoftware.com" target="_blank">Portfolio</a>
-
 
 ### 🚀 About Me
 
@@ -11,11 +9,13 @@ I am a passionate [Your Profession/Title] with a strong background in [Your Fiel
 
 ### 🔧 Technologies & Tools
 - **Programming Languages:**
-  - <div style="display: inline-block; background-color: #3572A5; color: #fff; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align: middle; margin-right: 5px;"></div>
-  - <div style="display: inline-block; background-color: #F1E05A; color: #333; padding: 5px 10px; border-radius: 5px; margin-right: 5px;"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle; margin-right: 5px;"></div>
-  - <div style="display: inline-block; background-color: #E38D13; color: #fff; padding: 5px 10px; border-radius: 5px;"><img src="https://img.shields.io/badge/SQL-004880?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="vertical-align: middle; margin-right: 5px;"></div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Javascript](![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- **Frameworks & Libraries:** [List of frameworks and libraries you have experience with]
+- **Frameworks & Libraries:** 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 - **Databases:** [List of databases you're familiar with]
 - **Tools & Technologies:** [Any relevant tools or technologies]
 
