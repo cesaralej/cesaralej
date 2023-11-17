@@ -19,10 +19,7 @@ I'm a software project manager with a robust technical foundation. I fluently co
 - **Databases:** 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- **Tools & Technologies:** 
-- [Git](https://git-scm.com/) 
-- [VS Code](https://code.visualstudio.com/) 
-- [Jira](https://www.atlassian.com/software/jira)
+- **Tools & Technologies:** [Git](https://git-scm.com/) - [VS Code](https://code.visualstudio.com/) - [Jira](https://www.atlassian.com/software/jira)
 
 
 ### 🛠️ Projects
