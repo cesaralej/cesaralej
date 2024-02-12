@@ -26,16 +26,16 @@ I'm a software project manager with a robust technical foundation. I fluently co
 
 Here are some of the projects I am proud of:
 
-1. **[Project Name 1]**
+1. **Web3 Elections**
 
-   - Description: [Brief description of the project]
-   - Technologies Used: [List of technologies and tools used]
-   - [Link to the project repository or deployed application]
+   - Description: Blockchain election smart contract with an interactive interface.
+   - Technologies Used: Angular, Solidity
+   - https://github.com/cesaralej/election-interface
 
-2. **[Project Name 2]**
-   - Description: [Brief description of the project]
-   - Technologies Used: [List of technologies and tools used]
-   - [Link to the project repository or deployed application]
+2. **AplicacionExcursiones**
+   - Description: Mobile app to help tour guides manage large tourist groups with the help of smart wristbands.
+   - Technologies Used: Kotlin, Firebase, NFC
+   - https://github.com/cesaralej/AplicacionExcursiones
 
 ### 📈 GitHub Stats
 
